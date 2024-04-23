@@ -10,6 +10,7 @@ Popular: Discover trending workouts and recipes recommended by the FitnessPal co
 
 ### Screenshots
 ![image](https://github.com/sarv1n0zrr/menu_app/assets/165127354/cd2a91aa-07fd-41a2-8454-8f5ed9c11bbf)
+![image](https://github.com/sarv1n0zrr/menu_app/assets/165127354/8b70e84b-3feb-4aa9-a70b-2da7020c1b32)
 ![image](https://github.com/sarv1n0zrr/menu_app/assets/165127354/67bb2c13-7ade-42bd-b0dd-ef4d6cf2be15)
 ![image](https://github.com/sarv1n0zrr/menu_app/assets/165127354/8547905d-f5a1-460d-aaca-e7b169a9d586)
 
